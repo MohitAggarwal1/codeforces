@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/71/problem/A" target="_blank" rel="noopener noreferrer">71A — Way Too Long Words</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 71A](https://codeforces.com/contest/71/problem/A) |
+
+## Topics
+`strings`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Way Too Long Words</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Sometimes some words like "<span class="tex-font-style-tt">localization</span>" or "<span class="tex-font-style-tt">internationalization</span>" are so long that writing them many times in one text is quite tiresome.</p><p>Let's consider a word <span class="tex-font-style-it">too long</span>, if its length is <span class="tex-font-style-bf">strictly more</span> than <span class="tex-span">10</span> characters. All too long words should be replaced with a special abbreviation.</p><p>This abbreviation is made like this: we write down the first and the last letter of a word and between them we write the number of letters between the first and the last letters. That number is in decimal system and doesn't contain any leading zeroes.</p><p>Thus, "<span class="tex-font-style-tt">localization</span>" will be spelt as "<span class="tex-font-style-tt">l10n</span>", and "<span class="tex-font-style-tt">internationalization</span>» will be spelt as "<span class="tex-font-style-tt">i18n</span>".</p><p>You are suggested to automatize the process of changing the words with abbreviations. At that all too long words should be replaced by the abbreviation and the words that are not too long should not undergo any changes.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains an integer <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>). Each of the following <span class="tex-span"><i>n</i></span> lines contains one word. All the words consist of lowercase Latin letters and possess the lengths of from <span class="tex-span">1</span> to <span class="tex-span">100</span> characters.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print <span class="tex-span"><i>n</i></span> lines. The <span class="tex-span"><i>i</i></span>-th line should contain the result of replacing of the <span class="tex-span"><i>i</i></span>-th word from the input data.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0028132624016248686" id="id002566613891348003" class="input-output-copier">Copy</div></div><pre id="id0028132624016248686">4<br>word<br>localization<br>internationalization<br>pneumonoultramicroscopicsilicovolcanoconiosis<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00430428217249218" id="id005185157393022645" class="input-output-copier">Copy</div></div><pre id="id00430428217249218">word<br>l10n<br>i18n<br>p43s<br></pre></div></div></div>

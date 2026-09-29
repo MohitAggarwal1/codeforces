@@ -6,22 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 10 |
+| 2 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (2)
-- [constructive algorithms](#constructive-algorithms) (2)
-- [divide and conquer](#divide-and-conquer) (2)
+- [brute force](#brute-force) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [divide and conquer](#divide-and-conquer) (1)
 - [greedy](#greedy) (2)
-- [interactive](#interactive) (2)
-- [math](#math) (1)
-- [strings](#strings) (1)
-- [trees](#trees) (2)
-- [two pointers](#two-pointers) (1)
+- [interactive](#interactive) (1)
+- [trees](#trees) (1)
 
 ---
 
@@ -35,7 +32,6 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 
 ### constructive algorithms
@@ -43,14 +39,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2207H1 | [Bowser's Castle (Easy Version)](https://codeforces.com/contest/2207/problem/H1) | 3500 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/2207/H1%20-%20Bowser's%20Castle%20(Easy%20Version)/solution.cpp) |
-| 2207H2 | [Bowser's Castle (Medium Version)](https://codeforces.com/contest/2207/problem/H2) | 3500 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/2207/H2%20-%20Bowser's%20Castle%20(Medium%20Version)/solution.cpp) |
 
 ### divide and conquer
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2207H1 | [Bowser's Castle (Easy Version)](https://codeforces.com/contest/2207/problem/H1) | 3500 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/2207/H1%20-%20Bowser's%20Castle%20(Easy%20Version)/solution.cpp) |
-| 2207H2 | [Bowser's Castle (Medium Version)](https://codeforces.com/contest/2207/problem/H2) | 3500 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/2207/H2%20-%20Bowser's%20Castle%20(Medium%20Version)/solution.cpp) |
 
 ### greedy
 
@@ -64,32 +58,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2207H1 | [Bowser's Castle (Easy Version)](https://codeforces.com/contest/2207/problem/H1) | 3500 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/2207/H1%20-%20Bowser's%20Castle%20(Easy%20Version)/solution.cpp) |
-| 2207H2 | [Bowser's Castle (Medium Version)](https://codeforces.com/contest/2207/problem/H2) | 3500 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/2207/H2%20-%20Bowser's%20Castle%20(Medium%20Version)/solution.cpp) |
-
-### math
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
-
-### strings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 
 ### trees
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2207H1 | [Bowser's Castle (Easy Version)](https://codeforces.com/contest/2207/problem/H1) | 3500 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/2207/H1%20-%20Bowser's%20Castle%20(Easy%20Version)/solution.cpp) |
-| 2207H2 | [Bowser's Castle (Medium Version)](https://codeforces.com/contest/2207/problem/H2) | 3500 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/2207/H2%20-%20Bowser's%20Castle%20(Medium%20Version)/solution.cpp) |
-
-### two pointers
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 2207H2 | [Bowser's Castle (Medium Version)](https://codeforces.com/contest/2207/problem/H2) | 3500 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/2207/H2%20-%20Bowser's%20Castle%20(Medium%20Version)/solution.cpp) |
 
 ---
 

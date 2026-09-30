@@ -6,21 +6,29 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 7 |
+| 3 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [divide and conquer](#divide-and-conquer) (1)
 - [greedy](#greedy) (2)
+- [implementation](#implementation) (1)
 - [interactive](#interactive) (1)
 - [trees](#trees) (1)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
 ### binary search
 
@@ -52,6 +60,12 @@
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 2207H1 | [Bowser's Castle (Easy Version)](https://codeforces.com/contest/2207/problem/H1) | 3500 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/2207/H1%20-%20Bowser's%20Castle%20(Easy%20Version)/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
 ### interactive
 

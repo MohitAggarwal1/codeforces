@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 9 |
+| 4 | 10 |
 
 ---
 
@@ -18,8 +18,9 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [divide and conquer](#divide-and-conquer) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [interactive](#interactive) (1)
+- [strings](#strings) (1)
 - [trees](#trees) (1)
 
 ---
@@ -65,6 +66,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
 ### interactive
@@ -72,6 +74,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2207H1 | [Bowser's Castle (Easy Version)](https://codeforces.com/contest/2207/problem/H1) | 3500 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/2207/H1%20-%20Bowser's%20Castle%20(Easy%20Version)/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 
 ### trees
 

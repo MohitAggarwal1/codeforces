@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 10 |
+| 5 | 10 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [divide and conquer](#divide-and-conquer) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [interactive](#interactive) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 - [trees](#trees) (1)
 
 ---
@@ -42,6 +42,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 
 ### constructive algorithms
 
@@ -68,6 +69,7 @@
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 
 ### interactive
 
@@ -80,6 +82,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MohitAggarwal1/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 
 ### trees
 
